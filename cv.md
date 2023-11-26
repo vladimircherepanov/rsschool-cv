@@ -9,7 +9,7 @@ System analyst
 ## Skills
 * HTML
 * CSS (Bootstrap, SASS/SCSS, BEM)
-* JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
+* JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript, Node)
 * Git/GitHub
 ## Code examples
 ```
